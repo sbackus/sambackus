@@ -2,9 +2,11 @@ sambackus
 =========
 
 sambackus is a programming language. 
+
 sambackus is a fork of JohannesCharras ook.
 
-Interpret Sambackus! file: python sambackus.py -o <FILENAME>
+
+Interpret Sambackus! file: python sambackus.py -o FILENAME
 
 commands:
 sambackus! sambackus? : begin
